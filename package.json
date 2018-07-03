@@ -1,0 +1,15 @@
+{
+  "name": "mobx-spy-computed-exception",
+  "version": "1.0.0",
+  "description": "",
+  "main": "spy-test.js",
+  "scripts": {
+    "start": "node spy-test.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Purnelle <kevin.purnelle@gmail.com> (http://kevinpurnelle.com/)",
+  "license": "ISC",
+  "devDependencies": {
+    "mobx": "4.3.1"
+  }
+}
